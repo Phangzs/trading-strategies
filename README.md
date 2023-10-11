@@ -3,6 +3,8 @@ A sample of simple trading strategies.
 
 Strategy reports are performed on optimized inputs. All strategies shown here use $20k initial and $10k trades. Higher risk tolerances may allow for higher (nearly double) returns at higher risk (double drawdown).
 
+These strategies typically give around 12% YoY with 4% drawdowns at 50% utilization.
+
 ## 1. momentum-volume.eld
 
 Ticker: **BBY**
